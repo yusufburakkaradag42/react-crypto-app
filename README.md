@@ -1,5 +1,7 @@
 # React içinden fetch() ve axios ile veri almak
 
+
+## https://reactcrypto-app.netlify.app/##
 API'den veri almak asekron bir işlemdir, sayfa render edilirken veride aynı zamanda gelebilir.
 
 useEffect hook u içinde axios ve fecth kullanıyoruz
